@@ -8,7 +8,7 @@ const projects = [
   {
     title: "Legal RAG Assistant (LexAI)",
     description:
-      "A RAG assistant for legal document analysis built with Streamlit. Upload PDFs, build semantic indexes with Azure OpenAI, and get context-aware answers to legal queries.",
+      "Built a RAG assistant for legal document analysis with Streamlit. Upload PDFs, build semantic indexes with Azure OpenAI, and get context-aware answers to legal queries.",
     tech: ["Streamlit", "Python", "Azure OpenAI", "FAISS", "RAG"],
     category: "AI",
     github: "https://github.com/manish-reddy7/legal-rag-assistant",
@@ -20,7 +20,7 @@ const projects = [
   {
     title: "Maternal Health Risk Prediction App",
     description:
-      "An end-to-end ML application predicting maternal health risks using clinical data. Features a Random Forest model, Flask backend, and interactive frontend.",
+      "Developed an end-to-end ML application predicting maternal health risks using clinical data. Features a Random Forest model, Flask backend, and interactive frontend.",
     tech: ["Python", "Flask", "HTML/JS", "Random Forest", "ML"],
     category: "AI",
     github: "https://github.com/manish-reddy7/maternal_health_risk_prediction_app/tree/main",

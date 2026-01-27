@@ -124,7 +124,7 @@ export function Footer() {
           transition={{ delay: 0.4 }}
         >
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            © {currentYear} Manish Reddy. Built with
+            © {currentYear} Manish Reddy. Made with
             <motion.span
               animate={{ scale: [1, 1.2, 1] }}
               transition={{ duration: 1, repeat: Infinity }}
