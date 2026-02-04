@@ -20,7 +20,7 @@ const experiences = [
     gradient: "from-primary/20 to-primary/5",
   },
   {
-    title: "Data & Cloud Intern",
+    title: "Social Media Manager Intern",
     company: "Kynetic",
     location: "Bengaluru, India",
     period: "Jan 2024 – May 2024",
@@ -53,10 +53,10 @@ const experiences = [
     title: "B.E. in Artificial Intelligence & Machine Learning",
     company: "Dayananda Sagar University",
     location: "Bengaluru, India",
-    period: "2021 – 2025",
+    period: "2023 – 2027",
     type: "Education",
     description: [
-      "CGPA: 8.66/10 - Consistent academic excellence",
+      "CGPA: 7.48/10 - Consistent academic excellence",
       "Core coursework in ML, Deep Learning, and Cloud Computing",
       "Active member of AI/ML research groups",
       "Participated in multiple hackathons and coding competitions",
